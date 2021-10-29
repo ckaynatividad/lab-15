@@ -1,9 +1,10 @@
 This is me messing stuff up on purpose. 
+Alice doesn't mess things up she is perfect in every way
+=======
+Hello.
+This is Bob
+Meow meow meow
+Meow meow meow meow
+> This meow is important. 
+This is me messing stuff up on purpose. 
 
-manually merged // Carol&Bob
-
-This is Ted and Alice's branch.
-We are writing things.
-Doing it properly.
-Then Bob and Carol come along, messing things up
-as usual.
